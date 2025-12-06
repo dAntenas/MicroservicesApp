@@ -1,0 +1,6 @@
+@WebApplicationSecond_HostAddress = http://localhost:5126
+
+GET {{WebApplicationSecond_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
